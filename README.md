@@ -34,11 +34,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 4: October 7. Saturday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong>Still having trouble with my Git and Github. Created the About page for the clone site. </p>
+<p><strong>Thoughts:</strong>Will try to fix Git/Github repositories.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 5: October 8. Sunday</h3>
 <p><strong>Today's Progress:</strong> </p>
