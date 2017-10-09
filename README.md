@@ -41,11 +41,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 5: October 8. Sunday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong> Added 2 new pages to the clone site.</p>
+<p><strong>Thoughts:</strong>Had a good workflow today by completeing 2 pages.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 6: October 9. Monday</h3>
 <p><strong>Today's Progress:</strong> </p>
