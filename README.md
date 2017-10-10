@@ -48,11 +48,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 6: October 9. Monday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong> The last 2 new pages added to the clone site. </p>
+<p><strong>Thoughts:</strong>Will be able to start with the CSS and any JavaScript during next session.  </p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 7: October 10. Tuesday</h3>
 <p><strong>Today's Progress:</strong> </p>
