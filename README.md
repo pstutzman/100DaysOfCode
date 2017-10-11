@@ -55,11 +55,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 7: October 10. Tuesday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong>Took a learning and research day. Saw a job I want. Comparing risk vs reward. Can a Jr. compete with a Sr.? New language? </p>
+<p><strong>Thoughts:</strong> I have a picture that says "You can't steal second and still keep your foot on first."</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 8: October 11. Wednesday</h3>
 <p><strong>Today's Progress:</strong> </p>
