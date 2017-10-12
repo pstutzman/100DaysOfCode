@@ -62,11 +62,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 8: October 11. Wednesday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong> Started CSS on clone site. It's a work in progress. Working on on color and site not responding will troubleshoot.</p>
+<p><strong>Thoughts:</strong>Progress looking good. Going to have fun troubleshooting the CSS tomorrow.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 9: October 12. Thursday</h3>
 <p><strong>Today's Progress:</strong> </p>
