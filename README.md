@@ -90,11 +90,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 12: October 15. Sunday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong>Continuing on the quest for more JavaScript knowledge. </p>
+<p><strong>Thoughts:</strong>Having fun so I know I am doing something right.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 13: October 16. Monday</h3>
 <p><strong>Today's Progress:</strong> </p>
