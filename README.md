@@ -97,11 +97,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 13: October 16. Monday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong>Worked on JavaScript quest. Learning the little things. Gathering Android Development resources for next project. </p>
+<p><strong>Thoughts:</strong> Staying focused on the goal of getting better. Learning something new everyday.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 14: October 17. Tuesday</h3>
 <p><strong>Today's Progress:</strong> </p>
