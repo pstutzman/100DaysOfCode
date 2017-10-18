@@ -104,11 +104,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 14: October 17. Tuesday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong>Had a very good day of working with JavaScript today. It was really flowing. I am going to finish off the night with a little reading' </p>
+<p><strong>Thoughts:</strong>Felt real good and I am enjoying every minute.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 15: October 18. Wednesday</h3>
 <p><strong>Today's Progress:</strong> </p>
