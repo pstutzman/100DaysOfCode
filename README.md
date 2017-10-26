@@ -160,11 +160,11 @@
 <p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 22: October 25. Wednesday</h3>
-<p><strong>Today's Progress:</strong> </p>
-<p><strong>Thoughts:</strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
-<p><strong>Link to work: </strong></p>
+<p><strong>Today's Progress:</strong> Working with some JavaScript today.</p>
+<p><strong>Thoughts:</strong>Did some fun stuff today and enjoyed it.</p>
+<p><strong>Link to work:</strong> https://github.com/pstutzman/100DaysOfCode</p>
+<p><strong>Link to Twitter:</strong> https://twitter.com/paula_stutzman</p>
+<p><strong>Link to blog: </strong> http://paulastutzman.com/blog/</p>
 
 <h3>Day 23: October 26. Thursday</h3>
 <p><strong>Today's Progress:</strong> </p>
